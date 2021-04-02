@@ -5,6 +5,7 @@ The Dice Roller Application is a Python command line application which I created
 
 ## Inital Work
 The inital work was completed by following along the with the Treehouse tutorial, with some small edits along the way.
+- [#1 - Create a Die](https://github.com/rheannemcintosh/treehouse-python-dice-roller/pull/1)
 
 ## Next Steps
 :black_square_button: Upload Code
