@@ -27,11 +27,11 @@ class Hand(list):
             self.append(die_class())
         self.sort()
 
-        def _by_value(self, value):
-            dice = []
-            for die in self:
-                if die == value:
-                    dice.append(die)
+    def _by_value(self, value):
+        dice = []
+        for die in self:
+            if die == value:
+                dice.append(die)
         return dice
 
 
