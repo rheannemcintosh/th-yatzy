@@ -1,4 +1,4 @@
-# Dice Roller :game_die:
+# Yatzy :game_die:
 
 ## Project Overview
 The Dice Roller Application is a Python command line application which I created at the start of my Python journey. The application is based off of a Treehouse Tutorial which can be accessed [here](https://teamtreehouse.com/library/project-breakdown). This is also a part of my 1<sup>st</sup> round of the **100 Days of Code Challenge**.
@@ -11,13 +11,13 @@ The inital work was completed by following along the with the Treehouse tutorial
 
 :black_square_button: Format Code
 
-:black_square_button: Update README
+:white_check_mark: Update README
 
-:black_square_button: Update Repository
+:white_check_mark: Update Repository
 
 :black_square_button: Post on Instagram
 
-:black_square_button: Update Wiki
+:white_check_mark: Update Wiki
 
 :black_square_button: Expand Yatzy Funcitionality ([See Kenneth Love's Example](https://github.com/kennethlove/yatzy))
 
