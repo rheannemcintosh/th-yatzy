@@ -1,6 +1,22 @@
+# ---------------------------------------------------------------- #
+#
+# dice.py
+#
+# This is a simple object oriented python version of
+# the classic dice game. Built in conjuntion with 
+# the Object Oriented Python course at teamtreehouse.com
+#
+# Author:  Rheanne McIntosh <rheanne.mcintosh@outlook.com>
+# Created: November 2020
+#
+# ---------------------------------------------------------------- #
+
+
+# Import statements
 import random
 
 
+# Die Class
 class Die:
     def __init__(self, sides=2, value=0):
         if not sides >= 2:
@@ -40,6 +56,7 @@ class Die:
         return str(self.value)
 
 
+# D6 Die Class
 class D6(Die):
     def __init__(self, value=0):
         super().__init__(sides=6, value=value)

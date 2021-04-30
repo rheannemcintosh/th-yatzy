@@ -1,3 +1,18 @@
+# ---------------------------------------------------------------- #
+#
+# scoresheets.py
+#
+# This is a simple object oriented python version of
+# the classic dice game. Built in conjuntion with 
+# the Object Oriented Python course at teamtreehouse.com
+#
+# Author:  Rheanne McIntosh <rheanne.mcintosh@outlook.com>
+# Created: November 2020
+#
+# ---------------------------------------------------------------- #
+
+
+# Yatzy Scoresheet Class
 class YatzyScoresheet:
     def score_ones(self, hand):
         return sum(hand.ones)
