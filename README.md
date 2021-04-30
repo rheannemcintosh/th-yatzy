@@ -9,7 +9,7 @@ The inital work was completed by following along the with the Treehouse tutorial
 ## Next Steps
 :white_check_mark: Upload Code
 
-:black_square_button: Format Code
+:white_check_mark: Format Code
 
 :white_check_mark: Update README
 
